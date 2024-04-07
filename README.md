@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Natan
 - 👀 I’m interested in learning new programming languages and technologies, exploring data science, and building innovative projects.
-- 🌱 I’m currently learning Python and C#.
+- 🌱 I’m currently learning Python, HTML and JavaScript.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time!
 
